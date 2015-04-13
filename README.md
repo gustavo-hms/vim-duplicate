@@ -4,10 +4,10 @@ A duplicate operator for Vim
 This plugin defines a new operator for duplicating text. After mapping a key 
 to it, e.g.:
 ```vim
-map n <Plug>(operator-duplicate)
+map m <Plug>(operator-duplicate)
 ```
-you can duplicate a word with `naw`, a line with `nn` or a paragraph with 
-`nap`. Also a selection can be duplicated pressing `n` in visual mode.
+you can duplicate a word with `maw`, a line with `mm` or a paragraph with 
+`map`. Also a selection can be duplicated pressing `m` in visual mode.
 
 Instalation
 -----------
