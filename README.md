@@ -12,7 +12,7 @@ you can duplicate a word with `naw`, a line with `nn` or a paragraph with
 Instalation
 -----------
 
-This plugin uses the Kana‘s 
+This plugin uses Kana‘s 
 [vim-operator-user](https://github.com/kana/vim-operator-user) plugin. So, you 
 need to install it first. If you are using a plugin manager like 
 [vim-plug](https://github.com/junegunn/vim-plug):
